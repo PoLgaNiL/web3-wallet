@@ -4,3 +4,5 @@
   "private": false,
  "description": "Universal interface for web3 wallets",
 "author": "Via Protocol (https://via.exchange)",
+"license": "MIT",
+  "repository": "https://github.com/viaprotocol/web3-wallets.git",
