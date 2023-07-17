@@ -8,3 +8,11 @@
   "repository": "https://github.com/viaprotocol/web3-wallets.git",
 "bugs": {
     "url": "https://github.com/viaprotocol/web3-wallets/issues"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "react",
+    "solana",
+    "web3",
+    "typescript"
