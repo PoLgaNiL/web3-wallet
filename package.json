@@ -16,3 +16,5 @@
     "solana",
     "web3",
     "typescript"
+  ],
+  "sideEffects": false,
