@@ -19,3 +19,4 @@
   ],
   "sideEffects": false,
   "source": "src/index.ts",
+"exports": {
