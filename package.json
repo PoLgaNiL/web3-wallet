@@ -22,3 +22,4 @@
 "exports": {
     "./package.json": "./package.json",
     ".": {
+      "module": "./build/index.esm.js",
