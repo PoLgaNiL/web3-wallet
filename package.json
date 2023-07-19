@@ -20,3 +20,4 @@
   "sideEffects": false,
   "source": "src/index.ts",
 "exports": {
+    "./package.json": "./package.json",
