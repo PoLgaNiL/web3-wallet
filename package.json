@@ -25,3 +25,4 @@
       "module": "./build/index.esm.js",
       "default": "./build/index.cjs.js"
     },
+    "./types": {
