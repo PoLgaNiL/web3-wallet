@@ -27,3 +27,6 @@
     },
     "./types": {
       "types": "./build/types.d.ts"
+    }
+  },
+  "main": "build/index.cjs.js",
