@@ -33,3 +33,5 @@
   "module": "build/index.esm.js",
   "types": "build/index.d.ts",
   "typesVersions": {
+    "*": {
+      "types": [
