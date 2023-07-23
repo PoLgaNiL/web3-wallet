@@ -35,3 +35,6 @@
   "typesVersions": {
     "*": {
       "types": [
+        "build/types.d.ts"
+      ]
+    }
