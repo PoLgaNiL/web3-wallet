@@ -50,3 +50,4 @@
     "clean": "shx rm -rf ./build",
     "build": "yarn clean && microbundle --entry src/index.ts --jsx React.createElement --visualize --tsconfig tsconfig.json --compress false --format esm,cjs",
     "lint": "eslint ./src",
+    "lint:fix": "eslint ./src --fix",
