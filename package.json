@@ -51,3 +51,5 @@
     "build": "yarn clean && microbundle --entry src/index.ts --jsx React.createElement --visualize --tsconfig tsconfig.json --compress false --format esm,cjs",
     "lint": "eslint ./src",
     "lint:fix": "eslint ./src --fix",
+    "publish:yalc": "yarn build && yalc publish --no-script --push",
+    "publish:rc": "npm version prerelease --preid=rc && yarn build && npm publish --tag rc --access public",
