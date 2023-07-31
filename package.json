@@ -54,3 +54,5 @@
     "publish:yalc": "yarn build && yalc publish --no-script --push",
     "publish:rc": "npm version prerelease --preid=rc && yarn build && npm publish --tag rc --access public",
     "publish:latest": "yarn build && npm publish --tag latest --access public",
+    "build:test": "microbundle --visualise --tsconfig tsconfig.json",
+    "test:treeshake": "agadoo"
