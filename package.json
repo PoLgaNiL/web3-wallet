@@ -56,3 +56,5 @@
     "publish:latest": "yarn build && npm publish --tag latest --access public",
     "build:test": "microbundle --visualise --tsconfig tsconfig.json",
     "test:treeshake": "agadoo"
+  },
+  "publishConfig": {
