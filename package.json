@@ -58,3 +58,6 @@
     "test:treeshake": "agadoo"
   },
   "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "contributors": [
