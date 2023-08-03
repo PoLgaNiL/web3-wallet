@@ -61,3 +61,6 @@
     "registry": "https://registry.npmjs.org/"
   },
   "contributors": [
+    {
+      "name": "Aleksey Lisun",
+      "url": "https://github.com/insulineru"
