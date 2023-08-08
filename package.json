@@ -78,3 +78,6 @@
     "ethers": "5.7.2",
     "react": "^18.1.0"
   },
+  "dependencies": {
+    "@coinbase/wallet-sdk": "^3.3.0",
+    "@cosmjs/launchpad": "0.24.1",
