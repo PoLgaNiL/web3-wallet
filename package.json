@@ -91,3 +91,4 @@
     "@solana/spl-name-service": "^0.1.4",
     "@solana/wallet-adapter-base": "^0.9.9",
     "@solana/wallet-adapter-phantom": "^0.9.8",
+    "@solana/web3.js": "^1.43.5",
