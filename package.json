@@ -92,3 +92,4 @@
     "@solana/wallet-adapter-base": "^0.9.9",
     "@solana/wallet-adapter-phantom": "^0.9.8",
     "@solana/web3.js": "^1.43.5",
+    "@tanstack/query-sync-storage-persister": "^4.24.10",
