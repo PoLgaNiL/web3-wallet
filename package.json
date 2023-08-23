@@ -95,3 +95,4 @@
     "@tanstack/query-sync-storage-persister": "^4.24.10",
     "@tanstack/react-query": "^4.24.10",
     "@tanstack/react-query-persist-client": "^4.24.10",
+    "@uniswap/permit2-sdk": "^1.2.0",
