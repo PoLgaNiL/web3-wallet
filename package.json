@@ -103,3 +103,5 @@
     "long": "^5.2.0",
     "rango-sdk": "^0.0.5",
     "web3": "^1.10.0"
+  },
+  "devDependencies": {
