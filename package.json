@@ -107,3 +107,4 @@
   "devDependencies": {
     "@antfu/eslint-config": "^0.25.1",
     "@types/node-fetch": "^2.6.2",
+    "@types/react": "^18.0.12",
