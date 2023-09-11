@@ -113,3 +113,5 @@
     "eslint-import-resolver-alias": "^1.1.2",
     "eslint-plugin-import": "^2.26.0",
     "microbundle": "^0.15.1",
+    "rollup-plugin-polyfill-node": "^0.10.2",
+    "shx": "^0.3.4",
