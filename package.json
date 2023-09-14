@@ -120,3 +120,5 @@
     "typescript-transform-paths": "^3.3.1"
   },
   "browserslist": [
+    "last 2 major versions",
+    "Chrome >= 60",
