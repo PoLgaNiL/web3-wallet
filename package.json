@@ -122,3 +122,5 @@
   "browserslist": [
     "last 2 major versions",
     "Chrome >= 60",
+    "Firefox >= 60",
+    "Firefox ESR",
