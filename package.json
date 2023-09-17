@@ -126,3 +126,4 @@
     "Firefox ESR",
     "iOS >= 12",
     "Safari >= 12",
+    "not op_mini all",
