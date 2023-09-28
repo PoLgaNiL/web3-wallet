@@ -141,3 +141,4 @@
     "@metamask/providers": "^8.1.1",
     "@solana/spl-name-service": "^0.1.4",
     "@solana/wallet-adapter-base": "^0.9.9",
+    "@solana/wallet-adapter-phantom": "^0.9.8",
