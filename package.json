@@ -150,3 +150,5 @@
     "@walletconnect/web3-provider": "^1.7.8",
     "abitype": "^0.1.7",
     "ethers": "5.7.2",
+    "ismobilejs": "^1.1.1",
+    "long": "^5.2.0",
