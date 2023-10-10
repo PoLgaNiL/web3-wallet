@@ -161,3 +161,5 @@
     "@types/react": "^18.0.12",
     "agadoo": "^2.0.0",
     "eslint": "^8.18.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.26.0",
