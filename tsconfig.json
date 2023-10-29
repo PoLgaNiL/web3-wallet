@@ -2,3 +2,4 @@
   "compilerOptions": {
     "allowJs": true,
     "downlevelIteration": true,
+    "esModuleInterop": true,
