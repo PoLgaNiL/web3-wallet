@@ -4,3 +4,5 @@
     "downlevelIteration": true,
     "esModuleInterop": true,
     "incremental": true,
+    "isolatedModules": true,
+    "jsx": "react-jsx",
