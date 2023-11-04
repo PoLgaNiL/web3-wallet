@@ -8,3 +8,5 @@
     "jsx": "react-jsx",
     "lib": [
       "es2019",
+      "es2017",
+      "dom"
