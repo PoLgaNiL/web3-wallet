@@ -16,3 +16,5 @@
     "noEmit": true,
     "noImplicitAny": true,
     "noUncheckedIndexedAccess": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
