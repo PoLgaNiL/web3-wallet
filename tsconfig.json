@@ -21,3 +21,6 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "strict": true,
+    "strictNullChecks": true,
+    "target": "es2021",
+    "paths": {
