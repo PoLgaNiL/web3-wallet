@@ -24,3 +24,5 @@
     "strictNullChecks": true,
     "target": "es2021",
     "paths": {
+      "@/*": [
+        "./src/*"
