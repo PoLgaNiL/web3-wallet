@@ -31,3 +31,5 @@
     "types": [
       "node",
       // TODO: Remove once issue is fixed
+      // https://github.com/microsoft/TypeScript/issues/42873
+      "@ethersproject/providers"
