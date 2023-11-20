@@ -43,3 +43,5 @@
     "node_modules",
     "**/node_modules",
     "**/node_modules/**",
+    ".husky",
+    "**/*.md",
