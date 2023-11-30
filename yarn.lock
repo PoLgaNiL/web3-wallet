@@ -12,3 +12,7 @@
 
 "@antfu/eslint-config-basic@0.25.1":
   version "0.25.1"
+  resolved "https://registry.yarnpkg.com/@antfu/eslint-config-basic/-/eslint-config-basic-0.25.1.tgz#6ff942e61169b2a1268194d3090a6c7e88e29330"
+  integrity sha512-FiOC33yoqHJCElFjSPJ9rHIjGSvJSqbYE58PgRXtJE9E4MM00vwzbA9iKILLnj27o3r3V+1sngHWlIeGaQu/iA==
+  dependencies:
+    eslint-plugin-antfu "0.25.1"
